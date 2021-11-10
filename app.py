@@ -8,11 +8,7 @@ app = Flask(__name__)
 
 # Routes 
 
-@app.route('/', methods=['GET', 'POST'])
-def root():
-    return "Welcome to the Allrecipes.com recipe scraper. Please send POST requests to /scrape as a JSON with the url as \'URL\' "
-
-@app.route('/scrape', methods=["POST"])
+@app.route('/', methods=["POST"])
 def recipeScraper():
     req = request.get_json()
     url = req['URL']
