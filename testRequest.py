@@ -2,7 +2,7 @@ import requests
 import json
 
 # raw = requests.post('http://flip3.engr.oregonstate.edu:9546/scrape', json={'URL': 'https://www.allrecipes.com/recipe/78370/hamburger-steak-with-onions-and-gravy/'})
-raw = requests.post('https://cs361recipescraper.herokuapp.com/scrape', json={'URL': 'https://www.allrecipes.com/recipe/78370/hamburger-steak-with-onions-and-gravy/'})
+raw = requests.post('https://cs361recipescraper.herokuapp.com/', json={'URL': 'https://www.allrecipes.com/recipe/78370/hamburger-steak-with-onions-and-gravy/'})
 r = raw.json()
 
 with open('recipe.json', 'w') as f:
