@@ -1,0 +1,100 @@
+{
+    "recipe": {
+        "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F43%2F2020%2F07%2F22%2F5938981.jpg",
+        "name": "Hamburger Steak with Onions and Gravy",
+        "nutritionalInfo": {
+            "calories": "318.8",
+            "data": [
+                {
+                    "amount": "318.8",
+                    "name": "calories",
+                    "unit": "calories"
+                },
+                {
+                    "amount": "13.5",
+                    "name": "carbohydrateContent",
+                    "unit": "g"
+                },
+                {
+                    "amount": "115.3",
+                    "name": "cholesterolContent",
+                    "unit": "mg"
+                },
+                {
+                    "amount": "18.5",
+                    "name": "fatContent",
+                    "unit": "g"
+                },
+                {
+                    "amount": "1.2",
+                    "name": "fiberContent",
+                    "unit": "g"
+                },
+                {
+                    "amount": "23.1",
+                    "name": "proteinContent",
+                    "unit": "g"
+                },
+                {
+                    "amount": "6.3",
+                    "name": "saturatedFatContent",
+                    "unit": "g"
+                },
+                {
+                    "amount": "NULL",
+                    "name": "servingSize",
+                    "unit": "NULL"
+                },
+                {
+                    "amount": "597.2",
+                    "name": "sodiumContent",
+                    "unit": "mg"
+                },
+                {
+                    "amount": "2.6",
+                    "name": "sugarContent",
+                    "unit": "g"
+                },
+                {
+                    "amount": "NULL",
+                    "name": "transFatContent",
+                    "unit": "NULL"
+                },
+                {
+                    "amount": "NULL",
+                    "name": "unsaturatedFatContent",
+                    "unit": "NULL"
+                }
+            ],
+            "servings_per_recipe": "4 servings"
+        },
+        "recipeIngredients": [
+            "1 pound ground beef",
+            "1 egg",
+            "0.25 cup bread crumbs",
+            "0.125 teaspoon ground black pepper",
+            "0.5 teaspoon seasoned salt",
+            "0.5 teaspoon onion powder",
+            "0.5 teaspoon garlic powder",
+            "1 teaspoon Worcestershire sauce",
+            "1 tablespoon vegetable oil",
+            "1 cup thinly sliced onion",
+            "2 tablespoons all-purpose flour",
+            "1 cup beef broth",
+            "1 tablespoon cooking sherry",
+            "0.5 teaspoon seasoned salt"
+        ],
+        "recipeInstructions": [
+            {
+                "instruction": "In a large bowl, mix together the ground beef, egg, bread crumbs, pepper, salt, onion powder, garlic powder, and Worcestershire sauce. Form into 8 balls, and flatten into patties.\n"
+            },
+            {
+                "instruction": "Heat the oil in a large skillet over medium heat. Fry the patties and onion in the oil until patties are nicely browned, about 4 minutes per side. Remove the beef patties to a plate, and keep warm.\n"
+            },
+            {
+                "instruction": "Sprinkle flour over the onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom as you stir. Gradually mix in the beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat for about 5 minutes, until the gravy thickens. Turn heat to low, return patties to the gravy, cover, and simmer for another 15 minutes.\n"
+            }
+        ],
+        "recipe_url": "https://www.allrecipes.com/recipe/78370/hamburger-steak-with-onions-and-gravy/"
+    }
+}
